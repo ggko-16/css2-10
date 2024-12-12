@@ -1,0 +1,668 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+main {
+    background: #E2F7FF;
+    padding: 96px;
+    max-width: 1604px;
+    width: 100%;
+    margin: 0 auto;
+    margin-top: 64px;
+}
+
+#mainDiv {
+    padding: 0 98px;
+}
+
+/* #mainSide{
+    
+} */
+
+#mainImg {
+    width: 100%;
+}
+
+#imgBottom {
+    margin-top: 20px;
+}
+
+#bottomP {
+    color: #6941C6;
+    font-size: 14px;
+    font-weight: 600;
+}
+
+#review {
+    margin: 8px 0;
+}
+
+#reviewH {
+    color: #181D27;
+    font-size: 30px;
+    font-weight: 600;
+    display: inline-block;
+    vertical-align: middle;
+    max-width: 1176px;
+    width: 100%;
+}
+
+#arrow {
+    display: inline-block;
+    vertical-align: middle;
+    width: 24px;
+    height: 24px;
+    margin-left: 10px;
+}
+
+#reviewP {
+    color: #535862;
+    font-size: 16px;
+    font-weight: 400;
+}
+
+#lists {
+    margin-top: 24px;
+}
+
+#design {
+    display: inline-block;
+    color: #6941C6;
+    font-size: 14px;
+    font-weight: 500;
+    padding: 8px 12px;
+    border: 1px solid #E9D7FE;
+    border-radius: 9999px;
+    background-color: #F9F5FF;
+    text-align: center;
+    margin-right: 4px;
+    cursor: pointer;
+}
+
+#research {
+    display: inline-block;
+    color: #3538CD;
+    font-size: 14px;
+    font-weight: 500;
+    padding: 8px 12px;
+    border: 1px solid #C7D7FE;
+    border-radius: 9999px;
+    background-color: #EEF4FF;
+    text-align: center;
+    margin-right: 4px;
+    cursor: pointer;
+}
+
+#presentation {
+    display: inline-block;
+    color: #C11574;
+    font-size: 14px;
+    font-weight: 500;
+    padding: 8px 12px;
+    border: 1px solid #FCCEEE;
+    border-radius: 9999px;
+    background-color: #FDF2FA;
+    text-align: center;
+    margin-right: 4px;
+    cursor: pointer;
+}
+
+/* bootom cards */
+
+
+#cardsDiv {
+    margin-top: 64px;
+}
+
+/* first card */
+#firstCard {
+    max-width: 384px;
+    width: 100%;
+    display: inline-block;
+    vertical-align: middle;
+}
+
+#firstcardImg {
+    max-width: 384px;
+    width: 100%;
+}
+
+
+#firstimgBottom {
+    margin-top: 20px;
+}
+
+#firstbottomP {
+    color: #6941C6;
+    font-size: 14px;
+    font-weight: 600;
+}
+
+#firstreviewH {
+    color: #181D27;
+    font-size: 24px;
+    font-weight: 600;
+    display: inline-block;
+    vertical-align: middle;
+    max-width: 344px;
+    width: 100%;
+    margin: 8px 0;
+}
+
+#firstarrow {
+    display: inline-block;
+    vertical-align: middle;
+    width: 24px;
+    height: 24px;
+    margin-left: 10px;
+}
+
+#firstreviewP {
+    color: #535862;
+    font-size: 16px;
+    font-weight: 400;
+}
+
+/* buttons */
+
+
+#firstlists {
+    margin-top: 24px;
+}
+
+#firstproduct {
+    display: inline-block;
+    color: #026AA2;
+    font-size: 14px;
+    font-weight: 500;
+    padding: 8px 12px;
+    border: 1px solid #B9E6FE;
+    border-radius: 9999px;
+    background-color: #F0F9FF;
+    text-align: center;
+    margin-right: 4px;
+    cursor: pointer;
+}
+
+#firsttools {
+    display: inline-block;
+    color: #C11574;
+    font-size: 14px;
+    font-weight: 500;
+    padding: 8px 12px;
+    border: 1px solid #FCCEEE;
+    border-radius: 9999px;
+    background-color: #FDF2FA;
+    text-align: center;
+    margin-right: 4px;
+    cursor: pointer;
+}
+
+#firstsass {
+    display: inline-block;
+    color: #C11574;
+    font-size: 14px;
+    font-weight: 500;
+    padding: 8px 12px;
+    border: 1px solid #FCCEEE;
+    border-radius: 9999px;
+    background-color: #FDF2FA;
+    text-align: center;
+    margin-right: 4px;
+    cursor: pointer;
+}
+
+/* end */
+
+/* second card */
+#secondCard {
+    max-width: 384px;
+    width: 100%;
+    display: inline-block;
+    vertical-align: middle;
+    margin-left: 28px;
+}
+
+#secondcardImg {
+    max-width: 384px;
+    width: 100%;
+}
+
+
+#secondimgBottom {
+    margin-top: 20px;
+}
+
+#secondbottomP {
+    color: #6941C6;
+    font-size: 14px;
+    font-weight: 600;
+}
+
+#secondreviewH {
+    color: #181D27;
+    font-size: 24px;
+    font-weight: 600;
+    display: inline-block;
+    vertical-align: middle;
+    max-width: 344px;
+    width: 100%;
+    margin: 8px 0;
+}
+
+#secondarrow {
+    display: inline-block;
+    vertical-align: middle;
+    width: 24px;
+    height: 24px;
+    margin-left: 10px;
+}
+
+#secondreviewP {
+    color: #535862;
+    font-size: 16px;
+    font-weight: 400;
+}
+
+/* buttons */
+
+
+#secondlists {
+    margin-top: 24px;
+}
+
+#software {
+    display: inline-block;
+    color: #067647;
+    font-size: 14px;
+    font-weight: 500;
+    padding: 8px 12px;
+    border: 1px solid #ABEFC6;
+    border-radius: 9999px;
+    background-color: #ECFDF3;
+    text-align: center;
+    margin-right: 4px;
+    cursor: pointer;
+}
+
+#secondtools {
+    display: inline-block;
+    color: #C11574;
+    font-size: 14px;
+    font-weight: 500;
+    padding: 8px 12px;
+    border: 1px solid #FCCEEE;
+    border-radius: 9999px;
+    background-color: #FDF2FA;
+    text-align: center;
+    margin-right: 4px;
+    cursor: pointer;
+}
+
+
+/* end */
+
+/* three card */
+#threeCard {
+    max-width: 384px;
+    width: 100%;
+    display: inline-block;
+    vertical-align: middle;
+    margin-left: 28px;
+}
+
+#threecardImg {
+    max-width: 384px;
+    width: 100%;
+}
+
+
+#threeimgBottom {
+    margin-top: 20px;
+}
+
+#threebottomP {
+    color: #6941C6;
+    font-size: 14px;
+    font-weight: 600;
+}
+
+#threereviewH {
+    color: #181D27;
+    font-size: 24px;
+    font-weight: 600;
+    display: inline-block;
+    vertical-align: middle;
+    max-width: 344px;
+    width: 100%;
+    margin: 8px 0;
+}
+
+#threearrow {
+    display: inline-block;
+    vertical-align: middle;
+    width: 24px;
+    height: 24px;
+    margin-left: 10px;
+}
+
+#threereviewP {
+    color: #535862;
+    font-size: 16px;
+    font-weight: 400;
+}
+
+/* buttons */
+
+
+#threelists {
+    margin-top: 24px;
+}
+
+#leadership {
+    display: inline-block;
+    color: #6941C6;
+    font-size: 14px;
+    font-weight: 500;
+    padding: 8px 12px;
+    border: 1px solid #E9D7FE;
+    border-radius: 9999px;
+    background-color: #F9F5FF;
+    text-align: center;
+    margin-right: 4px;
+    cursor: pointer;
+}
+
+#management {
+    display: inline-block;
+    color: #363F72;
+    font-size: 14px;
+    font-weight: 500;
+    padding: 8px 12px;
+    border: 1px solid #D5D9EB;
+    border-radius: 9999px;
+    background-color: #F8F9FC;
+    text-align: center;
+    margin-right: 4px;
+    cursor: pointer;
+}
+
+/* botoom cards */
+
+#bottomCards {
+    margin-top: 48px;
+}
+
+/* four card */
+#fourCard {
+    max-width: 384px;
+    width: 100%;
+    display: inline-block;
+    vertical-align: middle;
+}
+
+#fourcardImg {
+    max-width: 384px;
+    width: 100%;
+}
+
+
+#fourimgBottom {
+    margin-top: 20px;
+}
+
+#fourbottomP {
+    color: #6941C6;
+    font-size: 14px;
+    font-weight: 600;
+}
+
+#fourreviewH {
+    color: #181D27;
+    font-size: 24px;
+    font-weight: 600;
+    display: inline-block;
+    vertical-align: middle;
+    max-width: 344px;
+    width: 100%;
+    margin: 8px 0;
+}
+
+#fourarrow {
+    display: inline-block;
+    vertical-align: middle;
+    width: 24px;
+    height: 24px;
+    margin-left: 10px;
+}
+
+#fourreviewP {
+    color: #535862;
+    font-size: 16px;
+    font-weight: 400;
+}
+
+/* buttons */
+
+
+#fourlists {
+    margin-top: 24px;
+}
+
+#fiveProduct {
+    display: inline-block;
+    color: #026AA2;
+    font-size: 14px;
+    font-weight: 500;
+    padding: 8px 12px;
+    border: 1px solid #B9E6FE;
+    border-radius: 9999px;
+    background-color: #F0F9FF;
+    text-align: center;
+    margin-right: 4px;
+    cursor: pointer;
+}
+
+#fourresearch {
+    display: inline-block;
+    color: #3538CD;
+    font-size: 14px;
+    font-weight: 500;
+    padding: 8px 12px;
+    border: 1px solid #C7D7FE;
+    border-radius: 9999px;
+    background-color: #EEF4FF;
+    text-align: center;
+    margin-right: 4px;
+    cursor: pointer;
+}
+
+#framework {
+    display: inline-block;
+    color: #B93815;
+    font-size: 14px;
+    font-weight: 500;
+    padding: 8px 12px;
+    border: 1px solid #F9DBAF;
+    border-radius: 9999px;
+    background-color: #FEF6EE;
+    text-align: center;
+    margin-right: 4px;
+    cursor: pointer;
+}
+
+/* five card */
+#fiveCard {
+    max-width: 384px;
+    width: 100%;
+    display: inline-block;
+    vertical-align: middle;
+    margin-left: 28px;
+}
+
+#fivecardImg {
+    max-width: 384px;
+    width: 100%;
+}
+
+
+#fiveimgBottom {
+    margin-top: 20px;
+}
+
+#fivebottomP {
+    color: #6941C6;
+    font-size: 14px;
+    font-weight: 600;
+}
+
+#fivereviewH {
+    color: #181D27;
+    font-size: 24px;
+    font-weight: 600;
+    display: inline-block;
+    vertical-align: middle;
+    max-width: 344px;
+    width: 100%;
+    margin: 8px 0;
+}
+
+#fivearrow {
+    display: inline-block;
+    vertical-align: middle;
+    width: 24px;
+    height: 24px;
+    margin-left: 10px;
+}
+
+#fivereviewP {
+    color: #535862;
+    font-size: 16px;
+    font-weight: 400;
+}
+
+/* buttons */
+
+
+#fivelists {
+    margin-top: 24px;
+}
+
+#fivedesign {
+    display: inline-block;
+    color: #6941C6;
+    font-size: 14px;
+    font-weight: 500;
+    padding: 8px 12px;
+    border: 1px solid #E9D7FE;
+    border-radius: 9999px;
+    background-color: #F9F5FF;
+    text-align: center;
+    margin-right: 4px;
+    cursor: pointer;
+}
+
+#researchs {
+    display: inline-block;
+    color: #3538CD;
+    font-size: 14px;
+    font-weight: 500;
+    padding: 8px 12px;
+    border: 1px solid #C7D7FE;
+    border-radius: 9999px;
+    background-color: #EEF4FF;
+    text-align: center;
+    margin-right: 4px;
+    cursor: pointer;
+}
+
+/* end */
+
+/* six card */
+#sixCard {
+    max-width: 384px;
+    width: 100%;
+    display: inline-block;
+    vertical-align: middle;
+    margin-left: 28px;
+}
+
+#sixcardImg {
+    max-width: 384px;
+    width: 100%;
+}
+
+
+#siximgBottom {
+    margin-top: 20px;
+}
+
+#sixbottomP {
+    color: #6941C6;
+    font-size: 14px;
+    font-weight: 600;
+}
+
+#sixreviewH {
+    color: #181D27;
+    font-size: 24px;
+    font-weight: 600;
+    display: inline-block;
+    vertical-align: middle;
+    max-width: 344px;
+    width: 100%;
+    margin: 8px 0;
+}
+
+#sixarrow {
+    display: inline-block;
+    vertical-align: middle;
+    width: 24px;
+    height: 24px;
+    margin-left: 10px;
+}
+
+#sixreviewP {
+    color: #535862;
+    font-size: 16px;
+    font-weight: 400;
+}
+
+/* buttons */
+
+
+#sixlists {
+    margin-top: 24px;
+}
+
+#sixleadership {
+    display: inline-block;
+    color: #6941C6;
+    font-size: 14px;
+    font-weight: 500;
+    padding: 8px 12px;
+    border: 1px solid #E9D7FE;
+    border-radius: 9999px;
+    background-color: #F9F5FF;
+    text-align: center;
+    margin-right: 4px;
+    cursor: pointer;
+}
+
+#sixmanagement {
+    display: inline-block;
+    color: #3538CD;
+    font-size: 14px;
+    font-weight: 500;
+    padding: 8px 12px;
+    border: 1px solid #C7D7FE;
+    border-radius: 9999px;
+    background-color: #EEF4FF;
+    text-align: center;
+    margin-right: 4px;
+    cursor: pointer;
+}
+
+/* end */
